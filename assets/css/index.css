@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  list-style: none;
+}
+
+.list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.list li {
+    margin-right: 5px;
+}
+
