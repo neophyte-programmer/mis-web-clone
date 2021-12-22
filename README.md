@@ -26,6 +26,9 @@
 ### Hosted Using
 <a href="https://www.netlify.com/">
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</a> <br>
+</a> <br> <br>
 
 Live Site URL: [Live Site](https://miswebclone.netlify.app/)
+
+### References
+Original Page: [UG-MIS Web](https://ienabler.ug.edu.gh/pls/prodi41/w99pkg.mi_login?numtype=S)
