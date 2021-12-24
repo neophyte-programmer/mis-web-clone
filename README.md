@@ -1,6 +1,14 @@
 # MIS WEB Clone
 ## <p align= "center"> Overview </p>
+This is an attempt at cloning the MIS Web Interface for 
+The University of Ghana, Legon. <br>
+I find it necessary to state that I am not trying to prove to be
+smarter than the original developers behind this system 
+seeing as it takes a whole team to manage it and many years
+to keep running it as an the interface for all students of the school.
 
+<br> 
+I am simply just having some fun with my skills
 
 ## <p align= "center"> Experience </p>
 
